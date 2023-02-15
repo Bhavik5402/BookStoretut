@@ -498,3 +498,5 @@ D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
 D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
 D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
 D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\BookStore\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css

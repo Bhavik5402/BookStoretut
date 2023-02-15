@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ws4PAA4RIC5MywvPTGTMLOeL7sA9FE++4PFgV3S6h4I=",
+  "Hash": "2fvVKjSFffuAAn/DCLC63roXacEi9ix1n4BpvVZzNRA=",
   "Source": "BookStore",
   "BasePath": "_content/BookStore",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookStore.styles.css",
+      "SourceId": "BookStore",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "BookStore.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\bundle\\BookStore.styles.css"
+    },
+    {
+      "Identity": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css",
+      "SourceId": "BookStore",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BookStore",
+      "RelativePath": "BookStore.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\BookStore\\BookStore\\BookStore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BookStore.bundle.scp.css"
+    },
     {
       "Identity": "D:\\BookStore\\BookStore\\BookStore\\wwwroot\\css\\site.css",
       "SourceId": "BookStore",
